@@ -1,0 +1,10 @@
+pega ml_tot;
+
+calcula erro com ml_tot => error = f(ml_tot);
+// função será definida ainda
+
+soma ml_tot + erro;
+
+if (soma(ml_tot+erro) >= vol_prog)
+
+then, turn if off;
