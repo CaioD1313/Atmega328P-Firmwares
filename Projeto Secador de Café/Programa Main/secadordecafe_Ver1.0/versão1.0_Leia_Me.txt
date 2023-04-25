@@ -1,0 +1,13 @@
+/**********************************************
+***********************************************
+* Versão 1.0 do controlador do secador de café*
+*
+* Esta versão contem os ciclos básicos do     *
+* controlador, sendo esta a base de controle dos *
+* periféricos e blocos auxiliares.             *
+* São Eles: LCD, TIMER1 e PUSH BOTTONS *
+* Será criado a rotina de programação para usuário. *
+* Esta rotina será responsável por possibilitar a interface *
+* usuaário-máquina. Nela o usuário poderá: Setar tempo de *
+* motor ligado/desligado, temperatura de alarme e de *
+* desligamento                                     *

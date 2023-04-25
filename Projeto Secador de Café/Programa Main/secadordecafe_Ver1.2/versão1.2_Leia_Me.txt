@@ -1,0 +1,31 @@
+/**********************************************
+***********************************************
+* Versão 1.2 do controlador do secador de café*
+*
+* Esta versão está o com o menu de opções funcionando*
+* para todas as suas opções. São elas:        *
+* 1 - Tempo de liga/desliga do mortor         *
+* 2 - Temperatura de alarme do sistema        *
+* 3 - Temperatura de desligamento do sistema  *
+* 4 - Sair do Menu de opções                  *
+*                                             *
+* O menu está equipado com um sistema anti falha *
+* para a programação das temperaturas.         *
+* Este sistema não deixa o usuário escolher uma*
+* temperatura maior de alarme que de desligamento,*
+* ou o contrário, uma menor de desligamento do que *
+* de alarme.                                   *
+*            					*
+*é Possivel programar as temperaturas num range de *
+* 0 ºC a 140 ºC.                                *
+*						*
+* É possível programar o tempo de liga/desliga *
+* para qualquer valor que a variável int do atmega 328*
+*suporte. Este valor poderá ser limitado via software posteriormente*
+* a escolha do cliente                         *
+*						*
+* A próxima versão a ser desenvolvida (1.3)   *
+*será dotada do menu + a leitura do sensor de temperatura*
+* LM 35                                       *
+
+  

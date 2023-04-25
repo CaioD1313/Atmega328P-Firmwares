@@ -1,0 +1,9 @@
+/**********************************************
+***********************************************
+* Versão 1.1 do controlador do secador de café*
+*
+* esta versão está com o timer1 funcionando *
+* fazendo contagem de 1 em 1 segundo        *
+* e com o menu de opções montado (apenas o sketch).*
+* Na próxima versão (1.2) será desenvolvido a parte *
+* da programação em si do menu (interface maquina-homem)*   
